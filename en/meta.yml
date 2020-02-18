@@ -2,7 +2,7 @@ title: Interactive badge
 hero_image: images/interactive-badge.png
 theme: turquoise
 duration: 2
-listed: true
+listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-1, community-0
