@@ -18,10 +18,8 @@ version: 3.0.1
 last_tested: 2019-03-06
 steps:
 - title: Introduction
-  completion: engaged
 - title: Displaying an image
 - title: Displaying a happy face
 - title: 'Challenge: Displaying a sad face'
 - title: Creating a simple animation
-  completion: internal
 - title: 'Challenge: Create your own interactive badge!'
